@@ -1,0 +1,65 @@
+
+<!-- saved from url=(0059)file:///C:/Users/eduso285813/Desktop/Website1/website1.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+   <title>Tom Clansy's The Division 2 Fansite</title>
+  </head>
+  <body bgcolor="LightYellow">
+   <h1>Welcome to my Tom Clansy's The Division 2 Fansite!</h1>
+<p>
+    <img src="./Tom Clansy&#39;s The Division 2 Fansite_files/the division 2.jpg" width="49%" align="left">  
+    <img src="./Tom Clansy&#39;s The Division 2 Fansite_files/division 2.jpg" width="49%" align="right">  
+</p>
+
+
+<div style="float:clear"></div>
+    
+<h3>All the available pre-order editions:</h3>
+<ul>
+  <li>Standard Edition</li>
+  <li>Gold Edition</li>
+  <li>Dark Zone Definitive Collector's Edition</li>
+   <li>Ultimate Edition</li>
+  <li>Phoenix Shield Collector's Edition</li>
+</ul>
+
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+
+
+
+<table>
+  <tbody><tr>
+    <th>Edition</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td>Standard Edition</td>
+    <td>€59,99</td>
+  </tr>
+  <tr>
+    <td>Gold Edition</td>
+    <td>$99,99</td>
+  </tr>
+  <tr>
+    <td>The Dark Zone Edition</td>
+    <td>€109,99</td>
+  </tr>
+  <tr>
+    <td>Ulitmate Edition</td>
+    <td>$119,99</td>
+  </tr>
+  <tr>
+    <td>The Phoenix Shield Edition</td>
+    <td>$249,99</td>
+  </tr>
+</tbody></table>
+
+<h3>
+<a href="https://tomclancy-thedivision.ubisoft.com/game/en-us/the-division-2">Visit the official site here</a>
+</h3>
+
+
+</body></html>
